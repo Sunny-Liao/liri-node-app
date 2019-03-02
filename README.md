@@ -4,6 +4,9 @@
  (https://drive.google.com/file/d/1enXQ9c-Y74bqzVQaIXKmsiLJlYzSbpmz/view?usp=sharing)
 
 *Item 1 : concert-this
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://raw.github.com/Sunny-Liao/liri-node-app/master/concert-this.png)
  (https://raw.github.com/Sunny-Liao/liri-node-app/master/concert-this.png)
  
 *Item 2-1 : spotify-this-song
